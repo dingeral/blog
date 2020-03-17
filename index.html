@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>dingeral 的博客</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!-- Theme: Simple -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="shortcut icon" href="https://i.loli.net/2020/03/13/kjiU27qy6pDsm3b.png" type="image/x-icon">
+</head>
+<body>
+  <div id="app">久等了</div>
+  <script>
+    window.$docsify = {   
+
+      loadSidebar: true,
+      search: 'auto', // 默认值
+    themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
+      name: 'dingeral\'s blog',
+      repo: 'https://github.com/dingeral/',
+      auto2top: true,
+      plugins: [
+            function (hook) {
+                hook.doneEach(function () {
+                    // 每次路由切换时数据全部加载完成后调用，没有参数。
+                    // ...
+                    if (typeof MathJax !== 'undefined') {
+                        MathJax.Hub.Queue(["Typeset", MathJax.Hub])
+                    }
+                })
+            }
+        ]
+    }
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.10.2/docsify.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.10.2/plugins/search.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.10.2/plugins/emoji.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.10.2/plugins/external-script.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.10.2/plugins/zoom-image.js"></script>
+  <script src="//unpkg.com/docsify-copy-code"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        extensions: ["tex2jax.js"],
+        jax: ["input/TeX", "output/HTML-CSS"],
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true
+        },
+        "HTML-CSS": { availableFonts: ["TeX"] }
+    });
+</script>
+</body>
+</html>
