@@ -14,9 +14,9 @@
 
 ### 电子书
 
-- [书签](https://www.dingeral.com/net_note/)
+- [书签](https://www.note.dingeral.com/)
 
-- [软件](https://www.dingeral.com/software/#/%E8%BD%AF%E4%BB%B6/software)
+- [软件](https://software.dingeral.com/)
 
 ### 联系方式
 
