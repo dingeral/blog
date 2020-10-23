@@ -4,8 +4,6 @@
 
 ---
 
-> 来自 YouTube
-
-<iframe width="100%" height="390" src="https://www.youtube-nocookie.com/embed/yfqpqiTMUEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="390" src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/a89d47bf-6257-4ba1-80ef-eb527fe12b6a.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [原文](https://www.reddit.com/r/aww/comments/cw0ipi/loving_dad_makes_timelapse_of_daughter_growing_up/)
