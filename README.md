@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="100" src="https://i.loli.net/2020/03/13/kjiU27qy6pDsm3b.png" alt="logo"></a></p>
+<p align="center"><a href="" target="_blank" rel="noopener noreferrer"><img width="100" src="https://ae01.alicdn.com/kf/U00f2aa54aded49dbb02554df165682d01.jpg" alt="logo"></a></p>
 
 <h2 align="center">   欢迎来到我的博客！</h2>
 
@@ -11,15 +11,3 @@
 ### 关于本人
 
 喜欢折腾、思考
-
-### 电子书
-
-- [书签](https://www.note.dingeral.com/)
-
-- [软件](https://software.dingeral.com/)
-
-### 联系方式
-
-qq：13602五8160
-
-推特：[dingeral](https://twitter.com/dingerall)
