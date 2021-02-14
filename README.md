@@ -9,3 +9,13 @@
 ### 关于本人
 
 喜欢折腾、思考
+
+### 联系方式
+
+<address>
+email：<a href="mailto:dingeral@outlook.com">dingeral</a>
+<br \>
+github：<a href="https://github.com/dingeral">dingeral</a>
+<br \>
+twitter：<a href="https://twitter.com/dingerall">dingeral</a>
+</address>
